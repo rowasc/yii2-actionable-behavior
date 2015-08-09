@@ -6,8 +6,7 @@
  * Time: 11:15 PM
  */
 
-namespace common\components\actionable;
-
+namespace rowasc\yii2ActionableBehaviour\actionable;
 use Yii;
 use yii\base\Exception;
 class ActionableEmail extends  Actionable

@@ -6,7 +6,7 @@
  * Time: 9:56 PM
  */
 
-namespace common\components\actionable;
+namespace rowasc\yii2ActionableBehaviour\actionable;
 
 
 use yii\base\Behavior;

@@ -6,8 +6,7 @@
  * Time: 11:15 PM
  */
 
-namespace common\components\actionable;
-
+namespace rowasc\yii2ActionableBehaviour\actionable;
 
 class ActionablePushNotification extends  Actionable
 {
