@@ -1,10 +1,9 @@
-#STILL UNDER HEAVY DEVELOPMENT - Do not use
 # yii2-actionable-behavior
-A base class to easily set yii2's behaviours to send emails, push notifications and other common stuff.
+A base class to showcase hooking yii2's behaviours to send emails, push notifications and other common stuff.
 
 It's pretty basic, I need it for a small project I am working on, and I thought it could be useful to someone else. 
 
-***IMPORTANT: Only the email action is working so far! I will be adding APNS and google messaging cloud notifications soon.***  
+***IMPORTANT: Only the email action is working so far! I am not sure I will continue to work on this component since I will most likely extend a commander pattern component for new stuff I need. I am only leaving this here as an example ***  
 
 # Usage
 
